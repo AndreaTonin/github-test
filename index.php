@@ -6,4 +6,4 @@
  * and open the template in the editor.
  */
 
-echo 'This is index - change 3';
+echo 'This is index - change 5';
