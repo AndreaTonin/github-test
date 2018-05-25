@@ -6,5 +6,5 @@
  * and open the template in the editor. bla bla bla 6
  */
 
-echo 'This is home modified - 5';
+echo 'This is home modified - 6';
 
